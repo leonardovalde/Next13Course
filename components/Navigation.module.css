@@ -1,0 +1,14 @@
+.header {
+  border: 1px solid white;
+}
+.navigation {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
+
+.navigation a:hover {
+  color: grey;
+  text-decoration: underline;
+}
